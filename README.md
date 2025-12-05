@@ -15,8 +15,8 @@ Sto cercando di imparare Git senza creare la terza guerra mondiale
 ### Frederic Takam
  Sono Frederic e sto imparando GitHub
 
-modifica-luca
-## Obbiettivo del progetto:
+
+## Obiettivo del progetto:
 Questo progetto mi serve come nuova competenza
 Aggiunta da Luca
 
