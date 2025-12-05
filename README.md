@@ -12,13 +12,20 @@ Sto imparando anche io come luca ma forse non sto capendo molto bene
 Sto imparando a utilizzare GitHub 
 ### Pasquale Persia
 Sto cercando di imparare Git senza creare la terza guerra mondiale
- Sono Frederic e imparo GitHub
-modifica-mateo
+### Frederic Takam
+ Sono Frederic e sto imparando GitHub
+
+modifica-luca
+## Obbiettivo del progetto:
+Questo progetto mi serve come nuova competenza
+Aggiunta da Luca
+
 
 
 ## Obiettivo del Progetto
 Questo progetto serve per apprendere Git e GitHub in un contesto collaborativo.
 Aggiunta da Mateo.
 
-Sono frederic e sto imparando GitHub
+
+
 
