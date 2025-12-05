@@ -12,3 +12,4 @@ Sto imparando anche io come luca ma forse non sto capendo molto bene
 Sto imparando a utilizzare GitHub 
 ### Pasquale Persia
 Sto cercando di imparare Git senza creare la terza guerra mondiale
+ Sono Frederic e imparo GitHub
