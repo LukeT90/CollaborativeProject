@@ -10,9 +10,5 @@ Ho imparato GitHub perche è molto importante per il corso
 Sto imparando anche io come luca ma forse non sto capendo molto bene
 ### Mateo Kristo
 Sto imparando a utilizzare GitHub 
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
 Pasquale Persia
 Sto cercando di imparare Git senza creare la terza guerra mondiale
